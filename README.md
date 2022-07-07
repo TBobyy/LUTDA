@@ -1,2 +1,2 @@
 # LUTDA
-  Lightweight unmanned target detection algorithm, application and data sets such as Kitti and fsacoco
+  Lightweight driverless target detection algorithm is applied to driverless data sets such as Kitti and fsacoco
